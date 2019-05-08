@@ -1,0 +1,7 @@
+**/.idea
+**/classes
+**/*.iml
+**/build/
+**/out
+**/.gradle
+spark-warehouse/
